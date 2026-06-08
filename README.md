@@ -1,4 +1,4 @@
-# 🍵 Sip API Portal
+# 🍵 API Portal
 
 A sleek, full-stack REST API portal built with **FastAPI** and a custom glassmorphism login UI. Features JWT authentication, SQLAlchemy database integration, role-based access control, an admin dashboard, and a persistent Todo manager.
 
